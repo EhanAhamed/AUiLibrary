@@ -1,0 +1,27 @@
+{
+  "name": "auilibrary",
+  "version": "0.1.1",
+  "description": "a UI Library for aCross Game Engine",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run css && npm run js",
+    "css": "npm run css-concat && npm run css-",
+    "js": "",
+    "css-concat": "",
+    "js-concat": "",
+    "css-minify": "",
+    "js-minify": "",
+    "css-prettier": "",
+    "js-prettier": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aCross-Game-Engine/aUiLibrary.git"
+  },
+  "author": "Ehan Ahamed and contributors",
+  "license": "UPL-1.0",
+  "bugs": {
+    "url": "https://github.com/aCross-Game-Engine/aUiLibrary/issues"
+  },
+  "homepage": "https://github.com/aCross-Game-Engine/aUiLibrary#readme"
+}
