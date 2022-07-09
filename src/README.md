@@ -8,4 +8,4 @@ Items are singular objects, like a button.
 
 Layouts are grid systems and positioning and scaling systems that help align items to create components.
 
-Utilities are other systems that help the mainly css ui interact with the mainly js ui and/or the backend. 
+Utilities are other systems that help the mainly css ui interact with the mainly js ui and/or the backend.
