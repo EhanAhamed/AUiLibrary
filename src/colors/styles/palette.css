@@ -1,0 +1,28 @@
+aUi {
+    /* Name */
+    --aUi-Yin: #2d2d2d; /* Yin - Black - 5 - Dark */
+    --aUi-Yang: #d5d5d5; /* Yang - White - 5 - Light */
+    --aUi-Moon: #525252; /* Moon - Gray - 5 - Mid */
+    --aUi-Sea: #2d5595; /* Sea - Blue - 5 - Primary */
+    --aUi-Love: #d99999; /* Love - Pink - 5 - Secondary */
+    --aUi-Gem: #5d5595; /* Gem - Purple - 5 - Primary Alt */
+    --aUi-Fire: #d99955; /* Fire - Orange - 5 - Secondary Alt */
+
+    /* Color */
+    --aUi-blue: #2d5595; /* Sea - Blue - 5 - Primary */
+    --aUi-indigo: ; /* ___ - Indigo - 5 - ___ */
+    --aUi-purple: #5d5595; /* Gem - Purple - 5 - Primary Alt */
+    --aUi-pink: #d99999; /* Love - Pink - 5 - Secondary */
+    --aUi-red: ; /* ___ - Red - 5 - Danger */
+    --aUi-orange: #d99955; /* Fire - Orange - 5 - Secondary Alt */
+    --aUi-yellow: ; /* ___ - Yellow - 5 - Warning */
+    --aUi-lime: ; /* ___ - Lime - 5 - ___ */
+    --aUi-green: ; /* ___ - Green - 5 - Sucess */
+    --aUi-teal: ; /* ___ - Teal - 5 - ___ */
+    --aUi-cyan: ; /* ___ - Cyan - 5 - ___ */
+    --aUi-black: ; /* Yin - Black - 10 - Dark */
+    --aUi-gray: ; /* Moon - Gray - 5 - Mid */
+    --aUi-white: #d5d5d5; /* Yang - White - 0 - Light */ 
+
+    /* Scale */
+}
