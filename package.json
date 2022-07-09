@@ -11,8 +11,8 @@
     "js-concat": "",
     "css-minify": "",
     "js-minify": "",
-    "css-prettier": "",
-    "js-prettier": ""
+    "prettier-check": "npx prettier --check .",
+    "prettier-write": "npx prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/aCross-Game-Engine/aUiLibrary/issues"
   },
-  "homepage": "https://github.com/aCross-Game-Engine/aUiLibrary#readme"
+  "homepage": "https://github.com/aCross-Game-Engine/aUiLibrary#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
 }
