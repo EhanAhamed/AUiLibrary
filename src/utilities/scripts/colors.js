@@ -23,7 +23,7 @@ var colors = {
     black: "" /* Yin - Black - 10 - Dark */,
     gray: "" /* Moon - Gray - 5 - Mid */,
     white: "#d5d5d5" /* Yang - White - 0 - Light */,
-  }
+  },
 };
 
 export { colors };
