@@ -10,4 +10,4 @@ var aUi = {
   utils: utils,
 };
 
-export default { aUi };
+export { aUi };
