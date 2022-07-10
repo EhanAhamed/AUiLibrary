@@ -1,5 +1,4 @@
 var colors = {
-  palette: {
     Yin: "#2d2d2d" /* Yin - Black - 5 - Dark */,
     Yang: "#d5d5d5" /* Yang - White - 5 - Light */,
     Moon: "#525252" /* Moon - Gray - 5 - Mid */,
@@ -23,7 +22,6 @@ var colors = {
     black: "" /* Yin - Black - 10 - Dark */,
     gray: "" /* Moon - Gray - 5 - Mid */,
     white: "#d5d5d5" /* Yang - White - 0 - Light */,
-  },
 };
 
 export { colors };
