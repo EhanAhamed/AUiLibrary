@@ -4,12 +4,10 @@
   "description": "a UI Library for aCross Game Engine",
   "main": "index.js",
   "scripts": {
-    "build": "npm run styles && npm run scripts",
-    "styles": "npm run styles-concat && npm run styles-",
-    "scripts": "",
-    "styles-concat": "",
-    "scripts-concat": "",
-    "styles-minify": "",
+    "build": "npm run build-styles && npm run build-scripts",
+    "build-styles": "",
+    "build-scripts": "npm run scripts-rollup && npm run scripts-minify",
+    "scripts-rollup": "npx rollup --config ./build/config/rollup.config.js",
     "scripts-minify": "",
     "prettier-check": "npx prettier --check .",
     "prettier-write": "npx prettier --write ."
