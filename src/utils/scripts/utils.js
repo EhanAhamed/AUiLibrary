@@ -1,7 +1,7 @@
 import { colors } from "./colors.js";
 
-var utilities = {
+var utils = {
   colors: colors,
 };
 
-export { utilities };
+export { utils };

@@ -1,0 +1,3 @@
+var components = {};
+
+export { components };
