@@ -9,6 +9,7 @@
     "build-scripts": "npm run scripts-rollup && npm run scripts-minify",
     "scripts-rollup": "npx rollup --config ./build/config/rollup.config.js",
     "scripts-minify": "",
+    "prettier": "npx prettier --write .",
     "prettier-check": "npx prettier --check .",
     "prettier-write": "npx prettier --write ."
   },
