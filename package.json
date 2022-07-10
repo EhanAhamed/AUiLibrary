@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/aCross-Game-Engine/aUiLibrary/issues"
   },
-  "homepage": "https://github.com/aCross-Game-Engine/aUiLibrary#readme",
+  "homepage": "https://across.ehan.dev/aUiLibrary",
   "devDependencies": {
     "prettier": "^2.7.1",
     "rollup": "^2.76.0"
