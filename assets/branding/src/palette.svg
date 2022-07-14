@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 500 250" xml:space="preserve">
+        <rect fill="#9dd2dd" x="0" y="0" width="100" height="220"/>,<rect fill="#9d95d5" x="100" y="0" width="100" height="220"/>,<rect fill="#d5d5d5" x="200" y="0" width="100" height="220"/>,<rect fill="#525252" x="300" y="0" width="100" height="220"/>,<rect fill="#2d2d2d" x="400" y="0" width="100" height="220"/>
+        <text x="10" y="235" font-family="Arial" font-size="6" alignment-baseline="middle">aUiLibrary - Color Palette</text>
+        <text x="490" y="235" font-family="Arial" font-size="6" alignment-baseline="middle" text-anchor="end">#9dd2dd #9d95d5 #d5d5d5 #525252 #2d2d2d</text>
+      </svg>
