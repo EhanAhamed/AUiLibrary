@@ -39,5 +39,3 @@ var dom = {
     });
   },
 };
-
-export { dom };

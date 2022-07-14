@@ -1,3 +1,1 @@
 var layouts = {};
-
-export { layouts };

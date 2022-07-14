@@ -25,6 +25,6 @@
   "homepage": "https://across.ehan.dev/aUiLibrary",
   "devDependencies": {
     "prettier": "^2.7.1",
-    "rollup": "^2.76.0"
+    "webcompounder": "^1.1.4"
   }
 }

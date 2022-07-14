@@ -1,3 +1,1 @@
 var components = {};
-
-export { components };

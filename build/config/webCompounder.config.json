@@ -1,0 +1,16 @@
+{
+  "input": [
+    "./src/utils/scripts/dom.js",
+    "./src/utils/scripts/colors.js",
+    "./src/utils/scripts/utils.js",
+    "./src/layouts/scripts/layouts.js",
+    "./src/items/scripts/items.js",
+    "./src/components/scripts/components.js",
+    "./src/aUiLibrary.js"
+  ],
+  "output": "./build/scripts/aUiLibrary.js",
+  "callback": {
+    "functionParameter": "error",
+    "functionBody": "if (error) { throw error; } else { console.log('Bundling Completed') }"
+  }
+}
