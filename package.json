@@ -2,15 +2,15 @@
   "name": "auilibrary",
   "version": "0.1.1",
   "description": "A User-interface Library that simplifies web development - AUiLibrary (auilibrary.ehan.dev)",
-  "main": "index.js",
+  "main": "bin/AUiLibrary.cli.js",
   "scripts": {
     "prettier": "npx prettier --write .",
     "prettier-check": "npx prettier --check .",
     "prettier-write": "npx prettier --write ."
   },
   "bin": {
-    "AUiLibrary": "./bin/AUiLibrary.js",
-    "AUi": "./bin/AUiLibrary.js"
+    "AUiLibrary": "./bin/AUiLibrary.cli.js",
+    "AUi": "./bin/AUiLibrary.cli.js"
   },
   "repository": {
     "type": "git",
