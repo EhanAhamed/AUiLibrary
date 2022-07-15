@@ -1,8 +1,8 @@
 {
-    "input": ["cli.js", ""],
-    "output": "./bin/AUiLibrary.cli.js",
-    "callback": {
-        "functionParameter": "error",
-        "functionBody": "if (error) { throw error; } else { console.log('Bundling Completed') }"
-      }
+  "input": ["./src/cli/cli.js"],
+  "output": "./bin/AUiLibrary.cli.js",
+  "callback": {
+    "functionParameter": "error",
+    "functionBody": "if (error) { throw error; } else { console.log('Bundling Completed') }"
+  }
 }
