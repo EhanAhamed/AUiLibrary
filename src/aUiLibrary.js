@@ -1,4 +1,4 @@
-var aUi = {
+var AUi = {
   components: components,
   items: items,
   layouts: layouts,
