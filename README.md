@@ -7,9 +7,9 @@
 </a>
 <br />
 <br />
-<h1 align="center">aUiLibrary</h1>
+<h1 align="center">AUiLibrary</h1>
 <p align="center">
-  a User-interface Library<br />that simplifies web development.
+  A User-interface Library<br />that simplifies web development.
 </p>
 <p align="center">
   <a href="https://auilibrary.ehan.dev/"> Website, Docs, & Demo </a> -
@@ -26,11 +26,11 @@ Don't question it.
 
 <br />
 
-<h1 align="center">aUiLibrary</h1>
+<h1 align="center">AUiLibrary</h1>
 <p align="center">
   Copyright (c) 2022 Ehan Ahamed and contributors <br />
   Licensed Under the UPL-1.0 License <br />
-  <a href="https://github.com/EhanAhamed/aUiLibrary/blob/main/LICENSE.txt"
+  <a href="https://github.com/EhanAhamed/AUiLibrary/blob/main/LICENSE.txt"
     >See License File</a
   >
 </p>
