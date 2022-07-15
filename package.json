@@ -1,17 +1,16 @@
 {
   "name": "auilibrary",
   "version": "0.1.1",
-  "description": "a UI Library for aCross Game Engine",
+  "description": "A User-interface Library that simplifies web development - AUiLibrary (auilibrary.ehan.dev)",
   "main": "index.js",
   "scripts": {
-    "build": "npm run build-styles && npm run build-scripts",
-    "build-styles": "",
-    "build-scripts": "npm run scripts-rollup && npm run scripts-minify",
-    "scripts-rollup": "npx rollup --config ./build/config/rollup.config.js",
-    "scripts-minify": "",
     "prettier": "npx prettier --write .",
     "prettier-check": "npx prettier --check .",
     "prettier-write": "npx prettier --write ."
+  },
+  "bin": {
+    "AUiLibrary": "./bin/AUiLibrary.js",
+    "AUi": "./bin/AUiLibrary.js"
   },
   "repository": {
     "type": "git",

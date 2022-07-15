@@ -8,7 +8,7 @@
     "./src/components/scripts/components.js",
     "./src/aUiLibrary.js"
   ],
-  "output": "./build/scripts/aUiLibrary.js",
+  "output": "./build/scripts/AUiLibrary.js",
   "callback": {
     "functionParameter": "error",
     "functionBody": "if (error) { throw error; } else { console.log('Bundling Completed') }"
